@@ -1,0 +1,19 @@
+{
+  "name": "lazy-sunday",
+  "version": "0.0.1",
+  "description": "A Simple and Flexible Promise Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egosapien/LazySunday.git"
+  },
+  "author": "Alexander Stonehouse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/egosapien/LazySunday/issues"
+  },
+  "homepage": "https://github.com/egosapien/LazySunday#readme"
+}
